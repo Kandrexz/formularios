@@ -1,0 +1,10 @@
+c:\users\kandrexz\source\repos\formularios\formularios\bin\Debug\formularios.exe.config
+c:\users\kandrexz\source\repos\formularios\formularios\bin\Debug\formularios.exe
+c:\users\kandrexz\source\repos\formularios\formularios\bin\Debug\formularios.pdb
+c:\users\kandrexz\source\repos\formularios\formularios\obj\Debug\formularios.csprojResolveAssemblyReference.cache
+c:\users\kandrexz\source\repos\formularios\formularios\obj\Debug\formularios.Form1.resources
+c:\users\kandrexz\source\repos\formularios\formularios\obj\Debug\formularios.Properties.Resources.resources
+c:\users\kandrexz\source\repos\formularios\formularios\obj\Debug\formularios.csproj.GenerateResource.cache
+c:\users\kandrexz\source\repos\formularios\formularios\obj\Debug\formularios.csproj.CoreCompileInputs.cache
+c:\users\kandrexz\source\repos\formularios\formularios\obj\Debug\formularios.exe
+c:\users\kandrexz\source\repos\formularios\formularios\obj\Debug\formularios.pdb
